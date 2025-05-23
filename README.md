@@ -9,3 +9,5 @@ una blog increible de platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 Y como un amable recordatorio: **Este readme.md es un chiste.
+Voy a modificar este fichero
+como una pequeña prueba.
