@@ -1,5 +1,5 @@
 add and remove users
 change the Roles and Permissions
 manage the database
-closing the database connection
+closing the oracle database connection
 
